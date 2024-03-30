@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Imersão IA 2 -  Do Excel à Análise de Dados</h1>
+  <h1 align="center">Imersão IA 3 -  Do Excel à Análise de Dados</h1>
 </p>
 
 ## 🤿 Novamente participando de uma imersão da Alura! 
