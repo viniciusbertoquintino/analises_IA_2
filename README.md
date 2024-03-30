@@ -12,6 +12,10 @@ Nesta aula começamos a fazer uma analise em uma base da bolsa de valores utiliz
 
 Analisamos as bases de variaçoes na B3, utilizando analises exploratorias pelo google sheets com formulas e utilizamos o ChatGPT para gerar tabelas e cálculos de estatísticas como Máximo, Mínimo e Média.
 
+Abaixo, o material de utilizado em aula:
+
+
+
 ## 🤖 Aula 02 | 
 
 ## 🤖 Aula 03 | 
